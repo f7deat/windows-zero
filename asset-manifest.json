@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/windows-zero/static/css/main.32864f4c.chunk.css",
+    "main.js": "/windows-zero/static/js/main.21316834.chunk.js",
+    "main.js.map": "/windows-zero/static/js/main.21316834.chunk.js.map",
+    "runtime-main.js": "/windows-zero/static/js/runtime-main.3e42f76d.js",
+    "runtime-main.js.map": "/windows-zero/static/js/runtime-main.3e42f76d.js.map",
+    "static/js/2.7599edd0.chunk.js": "/windows-zero/static/js/2.7599edd0.chunk.js",
+    "static/js/2.7599edd0.chunk.js.map": "/windows-zero/static/js/2.7599edd0.chunk.js.map",
+    "static/js/3.a3130720.chunk.js": "/windows-zero/static/js/3.a3130720.chunk.js",
+    "static/js/3.a3130720.chunk.js.map": "/windows-zero/static/js/3.a3130720.chunk.js.map",
+    "index.html": "/windows-zero/index.html",
+    "static/css/main.32864f4c.chunk.css.map": "/windows-zero/static/css/main.32864f4c.chunk.css.map",
+    "static/js/2.7599edd0.chunk.js.LICENSE.txt": "/windows-zero/static/js/2.7599edd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e42f76d.js",
+    "static/js/2.7599edd0.chunk.js",
+    "static/css/main.32864f4c.chunk.css",
+    "static/js/main.21316834.chunk.js"
+  ]
+}
